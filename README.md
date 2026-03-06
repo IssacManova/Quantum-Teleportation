@@ -16,7 +16,7 @@
 
 <br/>
 
-![Quantum Teleportation Demo](Screenshot 2026-03-06 230208.png)
+![Quantum Teleportation Demo](Screenshot.png)
 
 </div>
 
