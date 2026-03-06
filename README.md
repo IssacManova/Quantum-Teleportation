@@ -16,7 +16,7 @@
 
 <br/>
 
-![Quantum Teleportation Demo](https://raw.githubusercontent.com/IssacManova/Quantum-Teleportation/main/preview.png)
+![Quantum Teleportation Demo](Screenshot 2026-03-06 230208.png)
 
 </div>
 
